@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">My Application</string>
+    <string name="tic_tac_toe">Tic-Tac-Toe</string>
+    <string name="boot">Boot</string>
+    <string name="user">User</string>
+    <string name="pcik_starter">Pick Starter</string>
+    <string name="pcik_boot">Pick Boot Level</string>
+</resources>
